@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devlubinets
 - 👀 I’m interested in laravel
 - 🌱 I’m currently learning gcloud
-- 💞️ I’m looking to collaborate on ukrainian small bussines
+<!--- - 💞️ I’m looking to collaborate on ukrainian small bussines --->
 - 📫 How to reach me dev.lubinets@gmail.com
 
 <!---
